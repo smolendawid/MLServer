@@ -1,4 +1,4 @@
-# Serving Alibi-Detect models
+# WIP: Serving Alibi-Detect models
 
 Out of the box, `mlserver` supports the deployment and serving of [alibi_detect](https://docs.seldon.io/projects/alibi-detect/en/latest/index.html) models. Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. In this example, we will cover how we can create a detector configuration to then serve it using `mlserver`.
 
